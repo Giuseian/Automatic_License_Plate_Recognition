@@ -10,5 +10,3 @@
 - Customer GUI to inform the users about the recognition status (in Streamlit).
 - Company Manager GUI to control Company Building accesses (in Streamlit). 
 - Employee's work hours registration. 
-
-**PROJECT REPOSITORY**: https://github.com/alessioborgi/Automatic_License_Plate_Recognition
